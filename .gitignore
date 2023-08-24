@@ -1,0 +1,8 @@
+# Ignore all files and directories that start with a dot.
+*.
+# Ignore the node_modules directory.
+node_modules/
+# Ignore the build directory.
+build/
+# Ignore the .env file, which contains sensitive environment variables.
+.env
